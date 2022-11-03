@@ -1,9 +1,8 @@
-
 import 'package:flutter/material.dart';
-import 'package:mobile_resume/spacing.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../custom_widgets.dart';
+import '../custom_widgets/page_widget.dart';
+import '../custom_widgets/spacing.dart';
 
 class OtherResumePage extends StatelessWidget {
   const OtherResumePage({super.key});

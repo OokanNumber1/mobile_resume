@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../custom_widgets.dart';
-import '../spacing.dart';
+import '../custom_widgets/page_widget.dart';
+import '../custom_widgets/spacing.dart';
+
 
 class MobileResumePage extends StatelessWidget {
   const MobileResumePage({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_resume/resume_page.dart';
+import 'package:mobile_resume/pages/resume_page.dart';
 
 void main() {
   runApp(const MyApp());

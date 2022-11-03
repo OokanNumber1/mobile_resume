@@ -8,3 +8,4 @@ The "engine room" of the codebase is where the width of the device being used is
 I used url_launcher from pub.dev to handle navigating to social profiles(Twitter,Github) when links to them are pressed.
 
 ## [Link to the app on Appetize](https://appetize.io/app/ljizofv3la442btszldkyohwaq)
+## [Link to .apk of the project](https://drive.google.com/file/d/1WUbzlvPn5zHiJuzxiAjwJc_R7hV0D_sT/view?usp=drivesdk)
